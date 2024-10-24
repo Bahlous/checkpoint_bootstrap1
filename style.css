@@ -1,0 +1,32 @@
+.navbar{
+    background-color: bisque !important;
+    margin-bottom: 2%;
+}
+.card{
+    
+    display: inline-flex;
+    margin: 6px;
+    padding: auto;
+    margin-top: 1%;
+}
+h1{
+     text-align: center;
+     background-color: bisque;
+    
+}
+.formulaire{
+    background-color: rgb(181, 181, 181);
+    padding: 2%;
+    margin: 2%;
+    margin-bottom: 0%;
+}
+.bi{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    margin: 1%;
+    justify-content: center;
+    text-align: center;
+}
